@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test1": "node teste-1/index.js",
-    "test2": "node teste-2/index.js"
+    "test2": "node teste-2/index.js",
+    "test3": "node teste-3/index.js"
   },
   "author": "Rodrigo Ferraz Souza",
   "license": "ISC",
