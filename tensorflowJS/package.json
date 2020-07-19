@@ -4,8 +4,8 @@
   "description": "A bunch of tests on tensorflowjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test1": "node teste-1/index.js",
+    "test2": "node teste-2/index.js"
   },
   "author": "Rodrigo Ferraz Souza",
   "license": "ISC",
