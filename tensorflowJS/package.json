@@ -4,11 +4,12 @@
   "description": "A bunch of tests on tensorflowjs",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rodrigo Ferraz Souza",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs-node": "^2.0.1"
+    "@tensorflow/tfjs": "^2.0.1"
   }
 }
